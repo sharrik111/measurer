@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/measurer.svg)](https://badge.fury.io/py/measurer)
+
 # Measurer
 Easily measure Python function performance
 
